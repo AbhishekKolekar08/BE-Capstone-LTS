@@ -85,7 +85,7 @@ W = 900 ;
 Xpos = floor((SS(3)-W)/2) ;
 Ypos = floor((SS(4)-H)/2) ;
 f = figure('Name','LTS Simulation Results','Position',[Xpos,Ypos,W,H]) ;
-figname = ["LTS: "+char(veh.name)+" @ "+tr.info.name,"Date & Time: "+datestr(now,'yyyy/mm/dd')+" "+datestr(now,'HH:MM:SS')] ;
+figname = ["LTS: "+char(veh.name)+" @ "+tr.info.name] ;
 sgtitle(figname)
 
 % setting rows & columns
