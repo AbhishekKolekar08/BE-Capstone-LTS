@@ -1,0 +1,25 @@
+==================================================================
+Donington Park.xlsx
+File read successfully
+==================================================================
+Name:          Donington Park
+City:          Derby
+Country:       England
+Type:          Permanent
+Configuration: Closed
+Direction:     Forward
+Mirror:        Off
+Date:          07/04/2022
+Time:          14:26:48
+==================================================================
+Track generation started.
+Pre-processing completed.
+Fine meshing completed with mesh size: 1 [m]
+Apex calculation completed.
+Track rotated.
+Closing fine mesh map.
+Fine mesh map closed.
+Fine mesh map created.
+Plots created and saved.
+Track generated successfully.
+LTS

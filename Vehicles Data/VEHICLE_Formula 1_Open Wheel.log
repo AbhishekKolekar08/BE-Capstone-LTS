@@ -1,0 +1,17 @@
+====================================================================================
+VehicleData.xlsx
+File read successfully
+====================================================================================
+Name: Formula 1
+Type: Open Wheel
+Date: 07/04/2022
+Time: 00:35:15
+====================================================================================
+Vehicle generation started.
+Braking model generated successfully.
+Steering model generated successfully.
+Driveline model generated successfully.
+Forces calculated successfully.
+GGV map generated successfully.
+Plots created and saved.
+Vehicle generated successfully.

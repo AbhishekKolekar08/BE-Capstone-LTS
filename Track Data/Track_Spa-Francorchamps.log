@@ -1,0 +1,26 @@
+==================================================================
+Spa-Francorchamps.xlsx
+File read successfully
+==================================================================
+Name:          Spa-Francorchamps
+City:          Francorchamps
+Country:       Belgium
+Type:          Permanent
+Configuration: Closed
+Direction:     Forward
+Mirror:        Off
+Date:          14/03/2024
+Time:          00:16:48
+==================================================================
+Track generation started.
+Pre-processing completed.
+Fine meshing completed with mesh size: 1 [m]
+Apex calculation completed.
+Track rotated.
+Closing fine mesh map.
+Fine mesh map closed.
+Fine mesh map created.
+Plots created and saved.
+Track generated successfully.
+uiopen('C:\Users\akole\OneDrive\Abhishek''s Documents\BE Project\Fin\LTS\LTS.m',1)
+LTS

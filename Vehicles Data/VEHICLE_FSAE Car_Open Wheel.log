@@ -1,0 +1,21 @@
+====================================================================================
+VehicleData.xlsx
+File read successfully
+====================================================================================
+Name: FSAE Car
+Type: Open Wheel
+Date: 12/07/2024
+Time: 13:21:08
+====================================================================================
+Vehicle generation started.
+Braking model generated successfully.
+Steering model generated successfully.
+Driveline model generated successfully.
+Forces calculated successfully.
+GGV map generated successfully.
+<a href="matlab: opentoline('C:\Program Files\MATLAB\R2023a\toolbox\matlab\graphics\objectsystem\savefig.m',38,1)">38  </a>narginchk(0, 3);
+if system_dependent('IsDebugMode')==1, dbstep out; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+Plots created and saved.
+Vehicle generated successfully.

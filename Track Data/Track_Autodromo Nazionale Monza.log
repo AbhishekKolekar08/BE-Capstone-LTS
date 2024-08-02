@@ -1,0 +1,25 @@
+==================================================================
+Autodromo Nazionale Monza.xlsx
+File read successfully
+==================================================================
+Name:          Autodromo Nazionale Monza
+City:          Monza
+Country:       Italy
+Type:          Permanent
+Configuration: Closed
+Direction:     Forward
+Mirror:        Off
+Date:          07/04/2022
+Time:          14:22:53
+==================================================================
+Track generation started.
+Pre-processing completed.
+Fine meshing completed with mesh size: 1 [m]
+Apex calculation completed.
+Track rotated.
+Closing fine mesh map.
+Fine mesh map closed.
+Fine mesh map created.
+Plots created and saved.
+Track generated successfully.
+LTS

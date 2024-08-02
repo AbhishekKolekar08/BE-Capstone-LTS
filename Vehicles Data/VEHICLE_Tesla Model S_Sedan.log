@@ -1,0 +1,17 @@
+====================================================================================
+VehicleData.xlsx
+File read successfully
+====================================================================================
+Name: Tesla Model S
+Type: Sedan
+Date: 07/04/2022
+Time: 14:12:06
+====================================================================================
+Vehicle generation started.
+Braking model generated successfully.
+Steering model generated successfully.
+Driveline model generated successfully.
+Forces calculated successfully.
+GGV map generated successfully.
+Plots created and saved.
+Vehicle generated successfully.
