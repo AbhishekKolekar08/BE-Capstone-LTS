@@ -22,9 +22,9 @@ The goal of our project is to produce a lap time simulation tool that provides a
 Quasi-Static 3DOF Model with pitch dynamics
 
 ## Outputs
-<img src="Figs/GGV.png" alt="GGV" width="400"/> <img src="Figs/TractionModel.png" alt="TractionModel" width="500"/>
+<img src="Figs/GGV.png" alt="GGV" width="400"/> <img src="Figs/TractionModel.png" alt="TractionModel" width="450"/>
 
-<img src="Figs/TrackInfo.png" alt="TrackInfo" width="600" align="center"/>
+<img src="Figs/TrackInfo.png" alt="TrackInfo" width="600"/>
 
 <img src="Figs/LTS.png" alt="LTS"/>
 
