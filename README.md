@@ -49,3 +49,6 @@ Quasi-Static 3DOF Model with pitch dynamics
 [8] Toyoshima Takayuki, et al. “Lap Time Simulation Technology for Performance Design During Production Car Development.” Honda R&D Technical Review. 
 
 [9] Chalkiopoulos, M., 2020, [OpenTRACK](https://github.com/mc12027/OpenLAP-Lap-Time-Simulator/blob/master/OpenTRACK.m). 
+
+## Project Report
+[Link to Project Report PDF](./ProjectReport.pdf)
