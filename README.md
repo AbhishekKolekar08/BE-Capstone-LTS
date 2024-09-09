@@ -1,5 +1,5 @@
 # Develop a Lap-Time Simulation and Energy Consumption Estimation Software for Electric Vehicles 
-<p>Bachelor of Engineering Capstone Project, completed by myself (Abhishek Amit Kolekar), Soham Raju Khairnar, Parth Prasad Paranjpe, and Sarvesh Rajendra Pawar to model and simulate vehicle performance and energy consumption for Battery Electric Vehicles (BEVs).</p>
+<p>Bachelor of Engineering Capstone Project, completed by Abhishek Amit Kolekar, Soham Raju Khairnar, Parth Prasad Paranjpe, and Sarvesh Rajendra Pawar to model and simulate vehicle performance and energy consumption for Battery Electric Vehicles (BEVs).</p>
 
 ## Abstract
 <p> The mileage of a battery electric car is a significant difficulty in its design. Batteries can account for a substantial portion of the vehicle's weight, so they must be constructed for the least amount of storage space possible. This project implements a Lap Time Simulator 
